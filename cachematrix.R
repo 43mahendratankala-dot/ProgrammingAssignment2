@@ -1,5 +1,7 @@
-This code is given to fulllfillment of assiginment
+## This code is given to fulllfillment of assiginment
 ## Creates a special "vector" object that can cache its mean
+## This code gets the mean value
+## The given code assgins value of inv in parent environment
 
 makeCacheMatrix <- function(x = matrix()) { ## define the argument with default mode of "matrix"
     inv <- NULL                             ## initialize inv as NULL; will hold value of matrix inverse 
